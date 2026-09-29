@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack developer with 10+ years building and scaling back-end systems and APIs for products across Australia, Qatar, and the UK/EU. Deep expertise in Node.js and React, with working experience across PHP/Laravel and Angular. Comfortable owning a service end-to-end — from data modelling in PostgreSQL/MongoDB/MySQL through to serverless deployment on AWS. Known for shipping reliably, mentoring engineers, and translating ambiguous client requirements into production-ready features.
+Full stack developer with 10+ years building and scaling back-end systems and APIs for products across Australia, Qatar, and the UK/EU. Deep expertise in Node.js and Angular/React, with working experience across PHP/Laravel and Angular. Comfortable owning a service end-to-end — from data modelling in PostgreSQL/MongoDB/MySQL through to serverless deployment on AWS. Known for shipping reliably, mentoring engineers, and translating ambiguous client requirements into production-ready features.
 
 
 ## 🌐 Socials:
